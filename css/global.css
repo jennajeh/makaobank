@@ -8,6 +8,15 @@
   box-sizing: border-box;
 }
 
+main {
+  position: relative;
+  width: 100vw;
+  height: calc(100vh - 4em);
+  background: url(/images/wave.svg) no-repeat 0 50%;
+  background-color: #0f7562;
+  background-size: cover;
+}
+
 a {
   text-decoration: none;
 }
