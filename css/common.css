@@ -9,32 +9,9 @@ article {
   border-radius: 0.5em;
   transform: translate3d(-50%, -50%, 0);
   background-color: #fff;
-  z-index: 2;
 }
 
 h2 {
   font-size: 2em;
   margin-bottom: 0.5em;
-}
-
-.decoration-left {
-  position: absolute;
-  top: 34%;
-  left: 16%;
-  width: 28vh;
-  height: 58vh;
-  background: url(/images/man.png) no-repeat 0 50%;
-  background-size: contain;
-  z-index: 1;
-}
-
-.decoration-right {
-  position: absolute;
-  top: 34%;
-  right: 7%;
-  width: 44vh;
-  height: 60vh;
-  background: url(/images/woman.png) no-repeat 0 50%;
-  background-size: contain;
-  z-index: 1;
 }
