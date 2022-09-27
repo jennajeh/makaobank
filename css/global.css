@@ -68,3 +68,8 @@ header a {
   font-size: 0.9em;
   color: #fff;
 }
+
+button {
+  border: none;
+  background: none;
+}
